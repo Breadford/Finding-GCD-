@@ -1,1 +1,1 @@
-# Finding-GCD-
+# Finding GCD of multiple numbers, arrays 
